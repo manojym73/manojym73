@@ -1,5 +1,21 @@
 # 💫 About Me:
-- 👋 Hi, I’m @manojym73<br>- 👀 I’m interested in web development using Python and Django.<br>- 🌱 I’m pursuing a Diploma in CSE, Final year.<br>- 💞️ I’m looking to collaborate on web development projects using Python.<br>- 📫 How to reach me: manojym73@gmail.com<br>- 😄 Pronouns: He/Him<br>- ⚡ Fun fact: I enjoy solving complex problems and finding creative solutions through code.
+# 👋 Hi there, I’m Manoj Y M (@manojym73)
+
+## 💡 About Me
+
+- 💻 Passionate about building dynamic websites with **Python and Django**
+- 🎓 Recently graduated with a **Diploma in Computer Science and Engineering**
+- 🤝 Open to collaborating on **Python web projects and automation tools**
+- 📫 Reach me anytime at **manojym73@gmail.com**
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love turning ideas into reality by solving real-world problems through code.
+
+## 📌 My Skills
+
+- **Languages:** Python, C, HTML, CSS, JavaScript
+- **Frameworks:** Flask
+- **Tools:** VS Code, Git, GitHub
+- **Areas of Interest:** Web Development, Automation, AI Smart Assistants
 
 
 ## 🌐 Socials:
