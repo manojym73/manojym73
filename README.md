@@ -11,7 +11,7 @@
 - Interested in building **AI-powered applications and intelligent systems**
 
 ## 🛠 Skills
-**Programming:** Python, Java, C  
+**Programming:** Python, Java
 **Computer Science:** Data Structures & Algorithms, DBMS, OOP  
 **Technologies:** Artificial Intelligence, Machine Learning, NLP  
 **Tools:** Git, GitHub, VS Code, Flask
